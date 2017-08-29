@@ -15,6 +15,4 @@ ro.ril.telephony.mqanelements=6
 ro.telephony.default_network=0
 
 # OTA
-ro.ota.manifest=https://raw.githubusercontent.com/Dracanrage/Exynos5410_Mokee_OTA/master/ja3gxx.xml
-ro.ota.romname=MK71.2-ja3gxx
-ro.ota.version=20170827
+ro.ota.manifest=https://raw.githubusercontent.com/Dracanrage/Exynos5410_Mokee_OTA/mkn-mr1/ja3gxx.xml
