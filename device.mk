@@ -37,11 +37,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     AudioWorkaround \
-    audio.a2dp.default \
-    audio.primary.universal5410 \
-    audio.usb.default \
-    audio.r_submix.default \
-    tinymix
+    audio.primary.universal5410
 
 # GPS
 PRODUCT_COPY_FILES += \
@@ -59,9 +55,6 @@ PRODUCT_PACKAGES += \
 
 # Radio (RIL)
 PRODUCT_PACKAGES += \
-    libril \
-    librilutils \
-    rild \
     libxml2 \
     libprotobuf-cpp-full \
     modemloader
